@@ -387,7 +387,8 @@ header {
 }
 .content-team {
   position: absolute;
-  bottom: -94px;
+  top: calc(100% );
+  /* bottom: -94px; */
   width: 100%;
 }
 .inner-team {
